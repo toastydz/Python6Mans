@@ -63,7 +63,7 @@ On top of all standard commands, admins have access to a few extra commands.
 
   - Example2: !clearChat 100
 
-!remove [@player] 
+*!remove [@player]*
 
 - This command will find and remove a player from a queue.
 
